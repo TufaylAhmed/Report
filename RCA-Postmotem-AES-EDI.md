@@ -42,5 +42,5 @@ Issue could be detected easily if the monitoring service had not broken at the s
 
 | Time  | Description |
 | ----- | ----------- |
-|11:56|	|Missing files discovered|
-|13:00|	|Records were processed|
+|11:56|	Missing files discovered |
+|13:00|	Records were processed |
