@@ -2,7 +2,7 @@
 ## Date
 2019-12-19
 
-##V Authors
+## Authors
 *Tufayl Ahmed*
 *Ops Team*
 
@@ -33,10 +33,11 @@ A ticket was created by the customer, which lead to the detection of the issue. 
 |Investigate if bulk record import processing caused any spike in the utilization| prevent| Tufayl Ahmed| **TODO** |
 |New policy creation to detect the missing records during processing|	|prevent|	|Tufayl Ahmed|	|**DONE**|
 |Investigate the problem with the AESCIS service that could lead to early detection of the issue|	|prevent|	|Tufayl Ahmed|**TODO**|
-##Learned Lessons
+
+## Learned Lessons
 Issue could be detected easily if the monitoring service had not broken at the same time of data processing issue. As a contingency, an extra monitoring plugin could resolve the issue. Also, if the utilization of services is impacted due to bulk record update. More resources could be added.
 
-##Timeline
+## Timeline
 2019-12-19 
 | Time  | Description |
 | ----- | ----------- |
